@@ -1,0 +1,6 @@
+#!/bin/sh
+cd /pennmush
+/usr/games/penn-install
+chown -R games:games /pennmush/pennmush
+chmod -R 775 /pennmush/pennmush
+
