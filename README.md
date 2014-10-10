@@ -27,7 +27,7 @@ map to your data directory.
 
 ## One More Thing
 
-Be sure to set a password for One (the root wizard).  
+Be sure to set a password for One (the root wizard).  Telnet into the server at port 4201 and:
 
     connect one
     @password =somenewpassword
